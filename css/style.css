@@ -1,0 +1,39 @@
+.menu{
+    color:#4a4a4a;
+    font-family:  'Rubik', sans-serif;
+    line-height: 20px;
+    display: flex;
+    justify-content:space-around;
+    flex-flow: row;
+    
+
+
+}
+.tittle{
+    font-size: 30px;
+    background: #3CDBC0;
+    color:#FFFFFF; 
+    position:fixed;
+    height: 100%;
+    width: 100%;
+    font-family: 'Rubik', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.list-header{
+    display: flex;
+    justify-content:center;
+    margin: 10px;
+    align-items: center;
+    font-family: 'Rubik', sans-serif;
+    padding: 0px;
+    list-style-type: none;
+    line-height: 20px;
+}
+img{
+    display: flex;
+    text-align: center;
+}
+@media 
